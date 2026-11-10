@@ -1,25 +1,54 @@
-👋 Hi, I'm Mithun ✨
+<p align="center">
+  <img src="./assets/engineering-cover.svg" alt="Mithun Kumar J. — Engineering Notebook: Embedded, FPGA, RF, Intelligent Systems" width="100%" />
+</p>
 
-🟣 Electronics & Communication Engineering student at VIT Chennai
-⚡ I spend an unreasonable amount of time turning random ideas into electronics and computer science projects—mostly because "I wonder if this works" is a dangerous thought.
-🔧 Usually found experimenting with embedded systems, AI, automation, and anything that involves making hardware and software argue with each other until they cooperate.
-📝 I build projects to learn, break things, fix them, and occasionally discover that the bug was me all along.
-🚀 Currently exploring the intersection of electronics, intelligent systems, and real-world engineering problems.
-☕ Powered by curiosity, deadlines, and a concerning amount of internet searches.
-🎯 Not chasing perfection—just trying to be a little better than yesterday, one project at a time.
+<p align="center">
+  <strong>Electronics & Communication Engineering · VIT Chennai · Class of 2028</strong><br/>
+  I build where circuits meet code — and I care about what survives contact with real hardware.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mithun-kumar-j/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:mithunkumarjagan@gmail.com">Email</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Mithunjagan?tab=repositories">All repositories</a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mithun-kumar-j/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mithunkumarjagan@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mithunjagan&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mithunjagan&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mithunjagan&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 01 / Selected work
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mithunjagan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+**[LDACS receiver on Zynq-7000](https://github.com/Mithunjagan/LDACS)** `FPGA` `Verilog` `Zynq`  
+A hardware/software communications receiver with a Python reference chain, ARM-side processing, FPGA logic, and a real board-to-host UART loopback. Hardware integration validated; specification conformance still under test.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[DeCad — schematic to editable CAD](https://github.com/Mithunjagan/DeCad)** `EDA` `Python` `KiCad`  
+A local workbench for recovering circuits from scanned schematics, reviewing connections, and exporting them to native CAD workflows.
+
+**[2.45 GHz smart-glasses antenna](https://github.com/Mithunjagan/Antenna-for-Smart-Glasses-2.45-GHz-)** `RF` `CST` `Wearables`  
+Designed and simulated a 50 × 6 mm printed dipole near a layered head model. **−18.76 dB S11** and **45.5% radiation efficiency** on-head at 2.45 GHz; simulation results, not prototype measurements.
+
+**[Delta modulation on ZedBoard](https://github.com/Mithunjagan/DCS_DM)** `DSP` `FPGA` `Vivado`  
+A real-time 1-bit encoder/decoder with switch-controlled step size, reconstructed output, and observable slope overload vs. granular noise.
+
+<sub>Also exploring: <a href="https://github.com/Mithunjagan/Dynamic-Partial-Reconfiguration_LDACS">dynamic partial reconfiguration</a> · <a href="https://github.com/Mithunjagan/Project007">computer vision &amp; motion analysis</a> · <a href="https://github.com/Mithunjagan/ESP-antenna">PCB antenna tuning</a></sub>
+
+---
+
+### 02 / On the bench
+
+- **Digital hardware:** RTL design, verification, FPGA architecture, and accelerators.
+- **Embedded engineering:** firmware, sensors, buses, control logic, and board bring-up.
+- **RF & signal systems:** antenna simulation, communications, and the gap between theory and a measurable result.
+
+**Tools I actually reach for:** `C/C++` · `Python` · `Verilog` · `ESP32` · `STM32` · `Zynq-7000` · `Vivado` · `KiCad` · `CST` · `Git`
+
+---
+
+### 03 / What I'm looking for
+
+Embedded systems, firmware, FPGA / RTL, and hardware R&D internships — plus paid engineering collaborations where I can contribute to something real.
+
+If you're building something that needs both a schematic and a debugger, [let's talk](mailto:mithunkumarjagan@gmail.com).
+
+<sub>Less "passionate about technology." More schematics, source code, measurements, and lessons learned.</sub>
