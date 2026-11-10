@@ -1,54 +1,94 @@
-<p align="center">
-  <img src="./assets/engineering-cover.svg" alt="Mithun Kumar J. — Engineering Notebook: Embedded, FPGA, RF, Intelligent Systems" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Electronics & Communication Engineering · VIT Chennai · Class of 2028</strong><br/>
-  I build where circuits meet code — and I care about what survives contact with real hardware.
-</p>
+<img src="assets/mithun-hero.svg" alt="MITHUN. — Hardware × Software" width="100%">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mithun-kumar-j/">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:mithunkumarjagan@gmail.com">Email</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Mithunjagan?tab=repositories">All repositories</a>
-</p>
+<br>
+
+**ECE @ VIT Chennai** &nbsp;·&nbsp; **Embedded systems** &nbsp;·&nbsp; **RTL / FPGA** &nbsp;·&nbsp; **RF engineering**
+
+[LinkedIn](https://www.linkedin.com/in/mithun-kumar-j/) &nbsp;·&nbsp; [Email](mailto:mithunkumarjagan@gmail.com) &nbsp;·&nbsp; [Explore repositories](https://github.com/Mithunjagan?tab=repositories)
+
+</div>
 
 ---
 
-### 01 / Selected work
+I'm Mithun, an electronics and communication engineering student who likes getting **hardware and software to work together outside a simulation**. I work across firmware, FPGA design, communications, RF, and practical tooling.
 
-**[LDACS receiver on Zynq-7000](https://github.com/Mithunjagan/LDACS)** `FPGA` `Verilog` `Zynq`  
-A hardware/software communications receiver with a Python reference chain, ARM-side processing, FPGA logic, and a real board-to-host UART loopback. Hardware integration validated; specification conformance still under test.
+### Projects / built, measured, debugged
 
-**[DeCad — schematic to editable CAD](https://github.com/Mithunjagan/DeCad)** `EDA` `Python` `KiCad`  
-A local workbench for recovering circuits from scanned schematics, reviewing connections, and exporting them to native CAD workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[2.45 GHz smart-glasses antenna](https://github.com/Mithunjagan/Antenna-for-Smart-Glasses-2.45-GHz-)** `RF` `CST` `Wearables`  
-Designed and simulated a 50 × 6 mm printed dipole near a layered head model. **−18.76 dB S11** and **45.5% radiation efficiency** on-head at 2.45 GHz; simulation results, not prototype measurements.
+<a href="https://github.com/Mithunjagan/DeCad">
+<img src="https://raw.githubusercontent.com/Mithunjagan/DeCad/main/docs/screenshots/workspace-nebula.jpg" alt="Actual DeCad schematic workbench screenshot" width="100%">
+</a>
 
-**[Delta modulation on ZedBoard](https://github.com/Mithunjagan/DCS_DM)** `DSP` `FPGA` `Vivado`  
-A real-time 1-bit encoder/decoder with switch-controlled step size, reconstructed output, and observable slope overload vs. granular noise.
+**[DeCad →](https://github.com/Mithunjagan/DeCad)**
 
-<sub>Also exploring: <a href="https://github.com/Mithunjagan/Dynamic-Partial-Reconfiguration_LDACS">dynamic partial reconfiguration</a> · <a href="https://github.com/Mithunjagan/Project007">computer vision &amp; motion analysis</a> · <a href="https://github.com/Mithunjagan/ESP-antenna">PCB antenna tuning</a></sub>
+*From scanned schematic to editable circuit.*
+
+Local EDA workbench for reviewing components, tracing nets, and working with native CAD files.
+
+`Python` &nbsp; `KiCad` &nbsp; `EDA`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Mithunjagan/Antenna-for-Smart-Glasses-2.45-GHz-">
+<img src="https://raw.githubusercontent.com/Mithunjagan/Antenna-for-Smart-Glasses-2.45-GHz-/main/docs/screenshots/on-head-model.png" alt="Actual CST antenna simulation alongside a layered head model" width="100%">
+</a>
+
+**[2.45 GHz smart-glasses antenna →](https://github.com/Mithunjagan/Antenna-for-Smart-Glasses-2.45-GHz-)**
+
+*Wearable RF design, tested against a head model.*
+
+50 × 6 mm printed dipole · **−18.76 dB S11** · **45.5% on-head radiation efficiency**. Simulation results.
+
+`CST` &nbsp; `RF` &nbsp; `Wearables`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[LDACS receiver on Zynq-7000 →](https://github.com/Mithunjagan/LDACS)**
+
+FPGA + ARM receiver pipeline with real board/host UART loopback. Hardware integration validated; independent standard-conformance testing remains open.
+
+`Verilog` &nbsp; `Zynq` &nbsp; `Python`
+
+</td>
+<td width="50%" valign="top">
+
+**[Delta modulation on ZedBoard →](https://github.com/Mithunjagan/DCS_DM)**
+
+1-bit encoder/decoder on hardware, with switch-controlled step size and ILA traces showing slope overload and granular noise.
+
+`FPGA` &nbsp; `Vivado` &nbsp; `DSP`
+
+</td>
+</tr>
+</table>
+
+**More from the lab:** [Dynamic partial reconfiguration](https://github.com/Mithunjagan/Dynamic-Partial-Reconfiguration_LDACS) · [Motion analysis / Project 007](https://github.com/Mithunjagan/Project007) · [PCB antenna tuning](https://github.com/Mithunjagan/ESP-antenna)
 
 ---
 
-### 02 / On the bench
+### Currently on the workbench
 
-- **Digital hardware:** RTL design, verification, FPGA architecture, and accelerators.
-- **Embedded engineering:** firmware, sensors, buses, control logic, and board bring-up.
-- **RF & signal systems:** antenna simulation, communications, and the gap between theory and a measurable result.
+**RTL & verification** / from testbenches to FPGA architecture and, eventually, ASIC design.
 
-**Tools I actually reach for:** `C/C++` · `Python` · `Verilog` · `ESP32` · `STM32` · `Zynq-7000` · `Vivado` · `KiCad` · `CST` · `Git`
+**Embedded engineering** / C/C++, STM32, ESP32, Raspberry Pi, sensors, protocols, and board bring-up.
 
----
+**Tools** / Verilog, Python, Vivado, KiCad, CST, Git, Linux.
 
-### 03 / What I'm looking for
+### Want to build something?
 
-Embedded systems, firmware, FPGA / RTL, and hardware R&D internships — plus paid engineering collaborations where I can contribute to something real.
+I'm open to **embedded / firmware / FPGA / hardware R&D internships** and **paid engineering projects**. If there's real hardware to debug, I'm interested.
 
-If you're building something that needs both a schematic and a debugger, [let's talk](mailto:mithunkumarjagan@gmail.com).
+**[Get in touch →](mailto:mithunkumarjagan@gmail.com)**
 
-<sub>Less "passionate about technology." More schematics, source code, measurements, and lessons learned.</sub>
